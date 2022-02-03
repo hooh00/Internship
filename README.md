@@ -11,7 +11,7 @@ $ python 3 numbergame.py
 Enter Lower bound: 10
 Enter Upper bound: 100
 
-	You've only  7  chances to guess the integer!
+	You have only  7  chances to guess the integer!
 
 Guess a number:- 50
 You Guessed too high!
