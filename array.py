@@ -16,3 +16,10 @@ print(arr1)
 #print(arr1.ndim) number of dimensions
 #print(arr1.shape) number of rows and columns 
 #print(arr1.size) size of the entire block
+
+import numpy as np
+A=np.array([[11,2,3],[4,5,6],[7,8,9]])
+print(A)
+
+B=np.matmul(A,A.T)
+print(B)
